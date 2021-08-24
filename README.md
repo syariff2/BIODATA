@@ -1,4 +1,5 @@
-# BIODATA
+Biodata
 ==
-Syarif Hidayatullah Kelas A1 
-==
+SYARIF HIDAYATULLAH
+--
+KELAS A1
